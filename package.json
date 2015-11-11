@@ -9,6 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "express": "~4.13.2"
+    "express": "~4.13.2",
+    "harp": "~0.19.0"
   }
 }
