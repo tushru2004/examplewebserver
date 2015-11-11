@@ -6,6 +6,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "serve": "~1.4.0",
-    "bower": "~1.6.5"
+    "bower": "~1.6.5",
+    "express": "~4.13.3"
   }
 }
